@@ -9,7 +9,7 @@
 
 
 <!-- PROJECT LOGO -->
-<h1>Staking Rewards AMM Solidity Contract</h1>
+<h1>Staking Rewards Solidity Contract</h1>
 
 
 
